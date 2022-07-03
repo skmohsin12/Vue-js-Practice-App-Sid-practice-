@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "name": "John Carter",
+      "email": "john.carter@reddifmail.com",
+      "contact": "6358795658",
+      "address": "Paris",
+      "id": 1
+    },
+    {
+      "name": "James Bond",
+      "email": "james.bond@reddifmail.com",
+      "contact": "6358956478",
+      "address": "New York",
+      "id": 2
+    },
+    {
+      "name": "Sherlock Holmes",
+      "email": "sharelock.holmes@gmail.com",
+      "contact": "9832554578",
+      "address": "Japan",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "email": "ee.h@r.in",
+      "password": "ciicka",
+      "id": 1
+    },
+    {
+      "email": "mr.skmohsin999@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "email": "port@gmail.com",
+      "password": "hahahah",
+      "id": 6
+    },
+    {
+      "email": "mr.skmohsin999@gmail.com",
+      "password": "maryam fatema",
+      "id": 7
+    }
+  ]
+}
